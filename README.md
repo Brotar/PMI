@@ -1,4 +1,4 @@
-<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
+<a href="http://fvcproductions.com"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.exposingsatanism.org%2Fwp-content%2Fuploads%2F2019%2F05%2FSatan-Monster-Hell.jpg&f=1&nofb=1" title="FVCproductions" alt="FVCproductions"></a>
 
 <!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 
