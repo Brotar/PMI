@@ -1,6 +1,6 @@
 <h1>BROTAR<H1>
    
-  <h4 style color:red;>Sistema ainda em desenvolvimento</h4>
+  <h4 style="color:red;">Sistema ainda em desenvolvimento</h4>
 
   <h4>Projeto de sistema automatizado de cultivos diversos e monitoramento<h4>
   
