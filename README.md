@@ -1,5 +1,7 @@
 <h1>BROTAR<H1>
-  
+   
+  <h4 style color:red;>Sistema ainda em desenvolvimento</h4>
+
   <h4>Projeto de sistema automatizado de cultivos diversos e monitoramento<h4>
   
   <p>A brotar tem o objetivo de facilitar o cultivo para pessoas que tem pouco tempo disponível para acompanhar sua horta ou até mesmo não tem como monitorar um cultivo de larga escala. Com a brotar, o usuário poderá acompanhar seu cultivo recebendo informações via gráficos e tabelas. Essas informações são coletadas por sensores que o usuário poderá cadastrar no sistema, dentre eles: PH, Umidade, Temperatura, EC, Iluminação. O sistema da brotar pode ser utilizado tanto em ambientes fechados (estufas) como em áreas abertas.</p>
