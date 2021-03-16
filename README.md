@@ -21,9 +21,9 @@
   
 <h3>Tecnologias utilizadas:<h3>
  
-  <p> Linguagem: PHP </p>
-  <p> Framework: Slim e Codelgniter</p>
-  <p> DB: MariaDB</p>
+  <p> Linguagem: Javascript</p>
+  <p> Framework: </p>
+  <p> DB: </p>
  
 
   
