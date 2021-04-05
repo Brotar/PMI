@@ -21,9 +21,9 @@
   
 <h3>Tecnologias utilizadas:<h3>
  
-  <p> Linguagem: Javascript</p>
-  <p> Framework: </p>
-  <p> DB: </p>
+  <p> Linguagem: Javascript - Node/Graphql backend</p>
+  <p> Framework: ReactJS</p>
+  <p> DB:Cloud firestore e Realtime-database </p>
  
 
   
